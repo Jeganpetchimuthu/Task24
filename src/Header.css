@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    padding:80px;
+    background-color: rgb(125, 126, 130);
+    color: white;
+
+    
+}
+.header-one{
+    text-align: center;
+    padding:10px;
+    background-color:rgb(125,126,130) ;
+    color:rgb(1, 2, 8); 
+    margin-top: 0px;
+    height: 150px;
+}

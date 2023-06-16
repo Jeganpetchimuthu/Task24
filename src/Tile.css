@@ -1,0 +1,112 @@
+.main-tail {
+  padding: 80px;
+  margin-top: 90px;
+  margin-right: 150px;
+  margin-left: -250px;
+  width: 280px;
+  height: 400px;
+  padding-right: 50px;
+}
+
+.tile-container {
+  width: 160px;
+  height: 85px;
+  text-align: center;
+  justify-content: space-between;
+  padding: 50px;
+  background-color: rgb(124, 124, 124);
+  font-size: xx-large;
+  font-weight: lighter;
+  margin-top: -10px;
+  border-radius: 5px;
+  margin-left: -9px;
+  margin-right: 10px;
+  padding-right: -15px;
+  cursor: pointer;
+}
+.tile-one {
+  margin-left: 50px;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+.tile-price {
+  margin-left: 60px;
+}
+.tile-btn {
+  margin: 30px;
+  width: 150px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: medium;
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 180px;
+  margin-left: 150px;
+  margin-top: -220px;
+}
+.sale-btn {
+  font-size: larger;
+  font-weight: 600;
+  justify-content: end;
+  align-items: end;
+  border-radius: 10px;
+  background-color: black;
+  color: rgb(185, 218, 246);
+  margin-left: 190px;
+  cursor: pointer;
+}
+.tile-value {
+  width: 160px;
+  height: 85px;
+  text-align: center;
+  justify-content: center;
+  padding: 50px;
+  background-color: rgb(124, 124, 124);
+  font-size: xx-large;
+  font-weight: lighter;
+  margin-top: -38px;
+  border-radius: 5px;
+  margin-left: -9px;
+  margin-right: 10px;
+  padding-right: -15px;
+}
+.tile-btn-one {
+  margin: 30px;
+  width: 150px;
+  height: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: medium;
+  color: #282525;
+  cursor: pointer;
+  background-color: rgb(243, 222, 222);
+}
+.tile-btn-one:hover {
+  background-color: black;
+}
+.rating {
+  margin-left: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.tile-on {
+  margin-left: 50px;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  margin-top: -30px;
+}
+.flex-sub {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 180px;
+  margin-left: 150px;
+  margin-top: -350px;
+}
